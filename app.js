@@ -33,7 +33,7 @@ app.route('/another-demo', class {
           <h1>Another Demo</h1>
       `;
       container.appendChild(myButton.render());
-      return container
+      return container;
   }
 });
 
