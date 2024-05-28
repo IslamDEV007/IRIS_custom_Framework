@@ -1,7 +1,7 @@
 import HomeComponent from './components/home.js';
 import AboutComponent from './components/about.js';
-import DataBindingComponent from './components/databinding.js';
-import ButtonComponent from './components/button.js';
+import DataBindingComponent from './components/Databinding/databinding';
+import ButtonComponent from './components/UI_components/button';
 import NotFoundComponent from './components/notfound.js';
 import Framework from './js/framework.js';
 
